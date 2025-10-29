@@ -1,4 +1,4 @@
-# 📊 Excel Salary Dashboard
+<img width="1005" height="471" alt="image" src="https://github.com/user-attachments/assets/5b09e26c-1a76-44ed-9dd0-02e4cf25dc22" /># 📊 Excel Salary Dashboard
 
 ![Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/0fbef0ad-ca37-4d5e-be70-c86723dec275)
 
@@ -82,6 +82,7 @@ IF(
     jobs[salary_year_avg]
 )
 )
+```
 
 **Purpose:**
 Calculates the median salary filtered by job title, country, and schedule type while excluding blank salary entries.
@@ -95,7 +96,7 @@ Calculates the median salary filtered by job title, country, and schedule type w
 ```excel
 **⏰ Count of Job Schedule Type**
 =FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
-
+```
 **Purpose:**
 Generates a list of unique job schedule types by filtering out duplicates, invalid entries, and zero values.
 
