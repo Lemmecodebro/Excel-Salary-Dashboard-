@@ -101,12 +101,15 @@ Calculates the median salary filtered by job title, country, and schedule type w
 Generates a list of unique job schedule types by filtering out duplicates, invalid entries, and zero values.
 
 **Background Table**
+
 <img width="195" height="119" alt="image" src="https://github.com/user-attachments/assets/fdcf29fb-00a5-412b-af87-b48647dc37e6" />
 
 **Dashboard Implementation**
+
 <img width="484" height="520" alt="image" src="https://github.com/user-attachments/assets/a58169b5-a4e8-4611-b7cb-3c7044e0b07d" />
 
 **3️⃣ Data Validation**
+
 <img width="524" height="502" alt="image" src="https://github.com/user-attachments/assets/18ffdb10-6730-4d0b-aa22-2eac04fe4bef" />
 
 
@@ -126,7 +129,6 @@ Benefits:
 
 👥 Enhances usability of the dashboard
 
-📸 Screenshot Placeholder: (Insert data validation GIF or screenshot)
 
 **✅ Conclusion**
 
