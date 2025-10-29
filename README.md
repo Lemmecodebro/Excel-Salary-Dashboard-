@@ -115,19 +115,19 @@ Generates a list of unique job schedule types by filtering out duplicates, inval
 
 **Implementation Details:**
 
-Applied data validation to dropdown filters for Job Title, Country, and Type
+- Applied data validation to dropdown filters for Job Title, Country, and Type
 
-Ensures consistent and correct user input
+- Ensures consistent and correct user input
 
-Prevents typing errors or invalid entries
+- Prevents typing errors or invalid entries
 
 Benefits:
 
-🎯 Cleaner and validated user data
+- 🎯 Cleaner and validated user data
 
-🚫 Eliminates inconsistent entries
+- 🚫 Eliminates inconsistent entries
 
-👥 Enhances usability of the dashboard
+- 👥 Enhances usability of the dashboard
 
 
 **✅ Conclusion**
@@ -135,8 +135,8 @@ Benefits:
 This Excel dashboard provides a clear, interactive way to explore salary trends across data-related roles worldwide.
 It combines visualization, formulas, and interactivity to help users:
 
-Understand how job title and location influence compensation
+- Understand how job title and location influence compensation
 
-Identify salary patterns in data science roles
+- Identify salary patterns in data science roles
 
-Make more informed career and negotiation decisions
+- Make more informed career and negotiation decisions
