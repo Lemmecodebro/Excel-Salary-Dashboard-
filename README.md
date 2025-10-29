@@ -1,4 +1,4 @@
-<img width="1005" height="471" alt="image" src="https://github.com/user-attachments/assets/5b09e26c-1a76-44ed-9dd0-02e4cf25dc22" /># 📊 Excel Salary Dashboard
+# 📊 Excel Salary Dashboard
 
 ![Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/0fbef0ad-ca37-4d5e-be70-c86723dec275)
 
@@ -91,7 +91,7 @@ Calculates the median salary filtered by job title, country, and schedule type w
 <img width="265" height="220" alt="image" src="https://github.com/user-attachments/assets/bab8d694-7f83-4f1c-a4d0-c6fb0733bb38" />
 
 **Dashboard Implementation**
-<img width="1148" height="1214" alt="image" src="https://github.com/user-attachments/assets/dc6815b8-04dc-4df9-8760-c11ce79258dc" />
+<img width="484" height="520" alt="image" src="https://github.com/user-attachments/assets/dc6815b8-04dc-4df9-8760-c11ce79258dc" />
 
 ```excel
 **⏰ Count of Job Schedule Type**
@@ -104,7 +104,7 @@ Generates a list of unique job schedule types by filtering out duplicates, inval
 <img width="195" height="119" alt="image" src="https://github.com/user-attachments/assets/fdcf29fb-00a5-412b-af87-b48647dc37e6" />
 
 **Dashboard Implementation**
-<img width="942" height="980" alt="image" src="https://github.com/user-attachments/assets/a58169b5-a4e8-4611-b7cb-3c7044e0b07d" />
+<img width="484" height="520" alt="image" src="https://github.com/user-attachments/assets/a58169b5-a4e8-4611-b7cb-3c7044e0b07d" />
 
 **3️⃣ Data Validation**
 <img width="524" height="502" alt="image" src="https://github.com/user-attachments/assets/18ffdb10-6730-4d0b-aa22-2eac04fe4bef" />
