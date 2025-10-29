@@ -72,7 +72,7 @@ Helps identify high and low median salary regions worldwide.
 
 #### 💰 Median Salary by Job Title
 
-
+```excel
 =MEDIAN(
 IF(
     (jobs[job_title_short]=A2)*
@@ -92,6 +92,7 @@ Calculates the median salary filtered by job title, country, and schedule type w
 **Dashboard Implementation**
 <img width="1148" height="1214" alt="image" src="https://github.com/user-attachments/assets/dc6815b8-04dc-4df9-8760-c11ce79258dc" />
 
+```excel
 **⏰ Count of Job Schedule Type**
 =FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
 
@@ -102,10 +103,10 @@ Generates a list of unique job schedule types by filtering out duplicates, inval
 <img width="195" height="119" alt="image" src="https://github.com/user-attachments/assets/fdcf29fb-00a5-412b-af87-b48647dc37e6" />
 
 **Dashboard Implementation**
-<img width="942" height="1212" alt="image" src="https://github.com/user-attachments/assets/a58169b5-a4e8-4611-b7cb-3c7044e0b07d" />
+<img width="942" height="980" alt="image" src="https://github.com/user-attachments/assets/a58169b5-a4e8-4611-b7cb-3c7044e0b07d" />
 
 **3️⃣ Data Validation**
-<img width="624" height="602" alt="image" src="https://github.com/user-attachments/assets/18ffdb10-6730-4d0b-aa22-2eac04fe4bef" />
+<img width="524" height="502" alt="image" src="https://github.com/user-attachments/assets/18ffdb10-6730-4d0b-aa22-2eac04fe4bef" />
 
 
 **Implementation Details:**
